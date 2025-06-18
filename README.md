@@ -110,37 +110,45 @@ const seniorMobileDeveloper = {
 </h2>
 
 <div align="center">
-  
-### 📱 Mobile Development
-- Native Android Development (Java/Kotlin)
-- Cross-platform Development (Flutter/Dart)
-- UI/UX Implementation
-- Custom Widget Development
-- Performance Optimization
-
-### 🛠 Architecture & Patterns
-- MVVM Architecture
-- Clean Architecture
-- Repository Pattern
-- Dependency Injection
-- State Management
-
-### 📊 Database & Backend
-- SQLite / Room Database
-- Firebase Integration
-- REST API Integration
-- Real-time Data Sync
-- Local Data Caching
-
-### 🔧 Development Tools
-- Android Studio
-- VS Code
-- Git & GitHub
-- Firebase Console
-- Play Console
-
+  <table align="center" border="0">
+    <tr>
+      <td width="50%" align="center">
+        <h3>📱 Mobile Development</h3>
+        • Native Android (Java/Kotlin)<br>
+        • Flutter & Dart Cross-platform<br>
+        • UI/UX Implementation<br>
+        • Custom Widget Development<br>
+        • Performance Optimization
+      </td>
+      <td width="50%" align="center">
+        <h3>🛠 Architecture & Patterns</h3>
+        • MVVM Architecture<br>
+        • Clean Architecture<br>
+        • Repository Pattern<br>
+        • Dependency Injection<br>
+        • State Management
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3>📊 Database & Backend</h3>
+        • SQLite / Room Database<br>
+        • Firebase Integration<br>
+        • REST API Integration<br>
+        • Real-time Data Sync<br>
+        • Local Data Caching
+      </td>
+      <td width="50%" align="center">
+        <h3>🔧 Development Tools</h3>
+        • Android Studio<br>
+        • VS Code<br>
+        • Git & GitHub<br>
+        • Firebase Console<br>
+        • Play Console
+      </td>
+    </tr>
+  </table>
 </div>
-
 ---
 
 <!-- Activity Graph -->
@@ -155,7 +163,9 @@ const seniorMobileDeveloper = {
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Random Dev Quote"/>
+
+  </div>
   
   <h3>🤝 Let's Connect and Build Something Amazing Together!</h3>
   
@@ -165,12 +175,6 @@ const seniorMobileDeveloper = {
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 </div>
 
-<!-- Profile Views -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Nusrat-Jahan-Nira&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views"/>
-  <br>
-  Last Updated On: 2025-06-18 09:19:28 UTC
-</p>
 
 <!-- Cool Footer Animation -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
