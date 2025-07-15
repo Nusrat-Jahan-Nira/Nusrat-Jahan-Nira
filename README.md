@@ -1,7 +1,9 @@
 <div align="center">
   <!-- Animated Welcome Text -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=DE55F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Nusrat+Jahan+Nira;Mobile+App+Developer;Android+%7C+Flutter+%7C+Spring+Boot;Building+Creative+Mobile+Solutions" alt="Typing SVG" />
+<!--     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=DE55F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Nusrat+Jahan+Nira;Mobile+App+Developer;Android+%7C+Flutter+%7C+Spring+Boot;Building+Creative+Mobile+Solutions" alt="Typing SVG" /> -->
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=700&height=100&lines=Hi+%F0%9F%91%8B+I'm+Nusrat+Jahan+Nira;Senior+Mobile+App+Developer;Skilled+in+Kotlin,+Flutter,+Spring+Boot;Building+Creative+Mobile+Solutions" alt="Typing SVG" />
+
   </a>
 
   <!-- Profile Banner -->
